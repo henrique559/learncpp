@@ -2,7 +2,7 @@
 
 Nesse repositório irei postar exemplos de códigos, resumos e projetos para auxiliar nos meus estudos de C++
 
-![image](https://github.com/henrique559/learncpp/assets/145483144/7bfed215-175b-48de-88e3-d2d0f994a86f)
+![image](https://github.com/henrique559/learncpp/assets/145483144/91ac54b1-3934-4a64-8756-989e8abc2ba3)
 
 
 Link do site: [learncpp](https://www.learncpp.com/)
