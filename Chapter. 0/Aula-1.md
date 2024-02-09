@@ -1,4 +1,4 @@
-#Linguagem C++
+# Linguagem C++
 
 Nesse repositório irei postar exemplos de códigos, resumos e projetos para 
 auxiliar nos meus estudos de C++
