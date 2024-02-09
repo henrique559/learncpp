@@ -26,6 +26,6 @@ ex: Um programa que calcula a sequência fibonacci de forma recursiva.
 - Passo 2: Definir a melhor forma de resolver aquele problema ou de como criar aquele software, chegando em um código que seja rápido, legível, direto ao ponto e reutilizável.
 - Passo 3: Realizar o código.
 
-Antes de tudo ==SEMPRE== pensar na solução daquele problema antes de colocar a mão no teclado.
+Antes de tudo ***SEMPRE*** pensar na solução daquele problema antes de colocar a mão no teclado.
 
 
