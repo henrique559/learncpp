@@ -111,3 +111,13 @@ O "iostream" é uma biblioteca da linguagem C++ que nos permite usar funções d
 - `&& || !`: operadores lógicos (AND, OR e NOT) respectivamente
 
 ## Expressions
+
+Expressões são uma sequencia de operações, variaveis, números ou funções que retornam um único valor
+ex: 
+```c++
+int a{ (2*3) + 4 - two()} // sendo two() uma função que retorna um inteiro de valor '2', ou seja, a variavel 'a' recebe o resultado dessa expressão
+```
+### Quiz time 
+
+- Q01) expressões são utilizadas para calcular um valor. já 'statements' serve para fazer alguma ação no programa
+- Q03) 5, 4, 0;

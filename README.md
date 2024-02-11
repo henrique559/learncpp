@@ -9,7 +9,7 @@ Link do site: [learncpp](https://www.learncpp.com/)
 ### Progressão 
 
 - [X] Chapter 0 - Introduction / Getting Started 
-- [ ] Chapter 1 - C++ Basics
+- [X] Chapter 1 - C++ Basics
 - [ ] Chapter 2 - C++ Basics: Functions and Files
 - [ ] Chapter 3 - Debugging C++ Programs
 - [ ] Chapter 4 - Fundamental Data Types
