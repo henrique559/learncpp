@@ -10,9 +10,9 @@ Link do site: [learncpp](https://www.learncpp.com/)
 
 - [X] Chapter 0 - Introduction / Getting Started 
 - [X] Chapter 1 - C++ Basics
-- [ ] Chapter 2 - C++ Basics: Functions and Files
-- [ ] Chapter 3 - Debugging C++ Programs
-- [ ] Chapter 4 - Fundamental Data Types
+- [X] Chapter 2 - C++ Basics: Functions and Files
+- [X] Chapter 3 - Debugging C++ Programs
+- [X] Chapter 4 - Fundamental Data Types
 - [ ] Chapter 5 - Constants and Strings
 - [ ] Chapter 6 - Operators 
 - [ ] Chapter O - Bit Manipulation (Optional)
