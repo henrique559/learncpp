@@ -13,18 +13,18 @@ Link do site: [learncpp](https://www.learncpp.com/)
 - [X] Chapter 2 - C++ Basics: Functions and Files
 - [X] Chapter 3 - Debugging C++ Programs
 - [X] Chapter 4 - Fundamental Data Types
-- [ ] Chapter 5 - Constants and Strings
-- [ ] Chapter 6 - Operators 
-- [ ] Chapter O - Bit Manipulation (Optional)
-- [ ] Chapter 7 - Scope, Duration and Linkage
-- [ ] Chapter 8 - Control Flow
-- [ ] Chapter 9 - Error Detection and Handling
-- [ ] Chapter 10 - Type Conversion, Type Aliases, and Type Deduction
-- [ ] Chapter 11 - Function Overloading and Function Templates
-- [ ] Chapter 12 - Compound Types: References and Pointers
-- [ ] Chapter 13 - Compound Types: Enums and Structs
-- [ ] Chapter 14 - Introduction to Classes
-- [ ] Chapter 15 - More on Classes
+- [X] Chapter 5 - Constants and Strings
+- [X] Chapter 6 - Operators 
+- [X] Chapter O - Bit Manipulation (Optional)
+- [X] Chapter 7 - Scope, Duration and Linkage
+- [X] Chapter 8 - Control Flow
+- [X] Chapter 9 - Error Detection and Handling
+- [X] Chapter 10 - Type Conversion, Type Aliases, and Type Deduction
+- [X] Chapter 11 - Function Overloading and Function Templates
+- [X] Chapter 12 - Compound Types: References and Pointers
+- [X] Chapter 13 - Compound Types: Enums and Structs
+- [X] Chapter 14 - Introduction to Classes
+- [X] Chapter 15 - More on Classes
 - [ ] Chapter 16 - Dynamic arrays: std::vector
 - [ ] Chapter 17 - Fixed-size arrays: std::array and C-style arrays
 - [ ] Chapter 18 - Iterators and Algorithms (under construction)
