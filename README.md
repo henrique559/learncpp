@@ -25,7 +25,7 @@ Link do site: [learncpp](https://www.learncpp.com/)
 - [X] Chapter 13 - Compound Types: Enums and Structs
 - [X] Chapter 14 - Introduction to Classes
 - [X] Chapter 15 - More on Classes
-- [ ] Chapter 16 - Dynamic arrays: std::vector
+- [X] Chapter 16 - Dynamic arrays: std::vector
 - [ ] Chapter 17 - Fixed-size arrays: std::array and C-style arrays
 - [ ] Chapter 18 - Iterators and Algorithms (under construction)
 - [ ] Chapter 19 - Dynamic Allocation (under construction)
